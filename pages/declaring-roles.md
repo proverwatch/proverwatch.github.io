@@ -1,4 +1,4 @@
-# Declaring Roles
+# declaring roles
 
 "role" and your top **3** heroes by joining the #classes channel and using the `?rank` command.
   - The 4 "roles" are `DPS`, `Tank`, `Heals`, and `Flex`.
