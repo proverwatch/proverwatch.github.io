@@ -10,9 +10,15 @@ SR Range: 2900+
 
 ## Using #lfg:
 
+When using the Looking For Group channel the following information can 
+
 Specify the following
-- Roles you're looking to play
+- Roles you have/are looking for
 - Group size sought and SR range
+
+Example:
+```
+Bastion: looking for group | dps, 
 
 Groups should not exceed 500pts between lowest and highest SR
 
