@@ -1,3 +1,3 @@
 # clips
 
-<center><img src="img/showme.png"></center>
+<center><img src="/img/showme.png"></center>
