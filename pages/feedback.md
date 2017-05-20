@@ -1,4 +1,4 @@
-# feedback
+# Feedback
 
 Proverwatch is a community focused on improvement. One method of improvement is peer feedback on gameplay.
 

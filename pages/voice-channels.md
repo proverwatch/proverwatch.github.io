@@ -1,4 +1,4 @@
-# voice channels
+# Voice Channels
 
 Proverwatch has a number of voice channels:
 
