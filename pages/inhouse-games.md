@@ -8,6 +8,7 @@ Proverwatch holds regular inhouse scrims for fun and team building. Players sign
 
 ### past matches
 
-#?? - Saltywaffles vs LongDiscordNames
-...
-#1 - Waffles vs Pancakes
+- 5/19/2017 - `One Team One Dream` vs `Lucio Goes Deep` vs `Git Gud or Die Tryin`
+- 5/12/2017 - `Saltywaffles` vs `LongDiscordNames`
+- ...
+- #1 - `Waffles` vs `Pancakes`
