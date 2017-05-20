@@ -1,4 +1,4 @@
-# looking for group
+# Looking For Group
 
 Proverwatch is a looking for group (LFG) server. When looking for a group use the following to maximize your group play.
 

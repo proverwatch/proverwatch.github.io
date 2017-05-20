@@ -1,4 +1,4 @@
-# admins
+# Admins
 
 <img src="/img/spot92.jpg">
 <img src="/img/kayleesi.jpg">

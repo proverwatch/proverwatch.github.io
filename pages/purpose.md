@@ -1,4 +1,4 @@
-# purpose
+# Purpose
 
 Proverwatch is a Discord LFG community (Looking For Group) for serious players building competitive groups.
 
