@@ -28,7 +28,7 @@ This committee will oversee the event and resolve any disputes that may arise ba
 - Submit to spot92 an image that you would like to represent your team, you will be getting a custom discord emote.
 - Each team is recommended to begin their own group DM on discord to communicate roles, strategies, strengths, weaknesses, etc.
 - As 4 man groups register, they will be publicly announced.
-- 
+
 ## Bracket
 - The teams will be organized based on the average of group current SR and season high SR, with a higher SR meaning a higher seed. This will be based on season 5 stats for the accounts listed in team registration. No alt account considerations.
 - SR data will be taken on July 22.
