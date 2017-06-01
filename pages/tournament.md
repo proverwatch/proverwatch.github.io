@@ -2,7 +2,7 @@
 
 Welcome to Proverwatch’s first official inhouse tournament, we are excited to see how the teams perform in the coming weeks! Below outlines the rules and regulations regarding this inhouse; once published to the website, these are set in stone until the completion of the tournament. Any feedback you may have can be directed to spot92 AFTER the tournament for future use. This is coinciding roughly with Proverwatch’s 6 month anniversary, so this is a celebration on top of a competition. This community is here because of you guys, thanks for all your participation and good luck out there!
 
-**Date:** August 11 start. Tournament will take place over multiple days.
+**Date:** August 18 start. Tournament will take place over multiple days.
 
 ## Referees
 - Spot92
